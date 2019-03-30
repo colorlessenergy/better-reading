@@ -1,0 +1,19 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  background-color: whitesmoke;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+p {
+  line-height: 1.9;
+  font-family: arial;
+  font-size: 130px;
+  font-weight: bold;
+  margin: 0 250px;
+  color: black;
+}
